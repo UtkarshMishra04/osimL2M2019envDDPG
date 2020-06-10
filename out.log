@@ -1,0 +1,4 @@
+Updating Model file from 30000 to latest format...
+Loaded model gait14dof22musc from file /home/utkubuntu/anaconda3/envs/opensim-rl/lib/python3.7/site-packages/osim/env/../models/gait14dof22musc_20170320.osim
+ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
